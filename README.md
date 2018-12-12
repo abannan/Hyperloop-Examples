@@ -1,2 +1,2 @@
 # Hyperloop-Examples
-Appcelrator Hyperloop Exmaples
+Appcelerator Hyperloop Examples
